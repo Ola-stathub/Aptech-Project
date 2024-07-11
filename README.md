@@ -16,6 +16,9 @@ The WDBC dataset contains 569 instances with 32 attributes:
 
 The dataset is publicly available at the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29).
 
+## Dataset
+The dataset used for the analysis is contained in this repository, named wdbc.csv
+
 ## Project Structure
 
 1. **Introduction**
